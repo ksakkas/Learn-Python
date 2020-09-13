@@ -2,3 +2,10 @@
 
 # This is a comment
 print("hii") # This is a comment
+
+"""
+This 
+is 
+a 
+comment
+"""
