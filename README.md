@@ -11,11 +11,11 @@
 <hr>
 <h2>Εισαγωγή στην Python</h2>
 <ul>
-<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/Code/intr_synt.py">Γνωριμία με την Python</a></li> 
-<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/Code/syntax.py">Σύνταξη κώδικα</a></li> 
-<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/Code/comment.py">Σχόλια σε κώδικα</a></li> 
-<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/Code/var.py">Μεταβλητές στην Python</a></li> 
-<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/Code/datatype.py">Τύποι Δεδομένων στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/intr_synt.py">Γνωριμία με την Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/syntax.py">Σύνταξη κώδικα</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/comment.py">Σχόλια σε κώδικα</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/var.py">Μεταβλητές στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/datatype.py">Τύποι Δεδομένων στην Python</a></li> 
 
 
 
