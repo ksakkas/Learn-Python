@@ -16,6 +16,8 @@
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/comment.py">Σχόλια σε κώδικα</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/var.py">Μεταβλητές στην Python</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/datatype.py">Τύποι Δεδομένων στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/convert_num.py">Μετατροπές</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/randomt.py">Παραγωγή τυχαίων αριθμών</a></li> 
 
 
 
