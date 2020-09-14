@@ -1,31 +1,33 @@
-# Python Strings
 
-x = '''The aim of the department is to promote information science, 
-computer systems and telecommunications, as well as their applications. 
-The Department has modern facilities on the campus of the historic city of Arta.'''
+# Αλφαριθμητικά στην Python
+
+x = '''Στόχος του τμήματος είναι η προώθηση των επιστημών της πληροφορικής, 
+των υπολογιστικών συστημάτων και των τηλεπικοινωνιών, καθώς και των εφαρμογών αυτών. 
+Το Τμήμα διαθέτει σύγχρονες υποδομές στο campus της Πανεπιστημιούπολης της ιστορικής πόλης της Άρτας.'''
+
 print(x)
 print("-----------------------------------------------------------")
 
 y = "Hello World!"
-print(y[0])     # Get the characters from position 0
-print(y[6:11])  # Get the characters from position 6 to position 11
+print(y[0])     # Παίρνει τους χαρακτήρες από τη θέση 0
+print(y[6:11])  # Παίρνει τους χαρακτήρες από τη θέση 6 μέχρι την θέση 11
 print("-----------------------------------------------------------")
 
-print(len(y))   # Returns the length of a string
+print(len(y))   # Επιστρέφει το μήκος μιας συμβολοσειράς
 
 k = "  DIT"
 m = "dit"
-print(k.strip())    # Removes any whitespace from the beginning or the end
+print(k.strip())    # Καταργεί οποιοδήποτε κενό διάστημα από την αρχή ή το τέλος
 print("----------------------------------------------------------")
 
-print(k.lower())    # Returns the string in lower case
+print(k.lower())    # Επιστρέφει τη συμβολοσειρά με πεζά γράμματα
 print("----------------------------------------------------------")
 
-print(m.upper())    # Returns the string in upper case
+print(m.upper())    # Επιστρέφει τη συμβολοσειρά με κεφαλαία γράμματα
 print("----------------------------------------------------------")
 
 l="Tit"
-print(l.replace("T", "D"))  # Replaces a string with another string
+print(l.replace("T", "D"))  # Αντικαθιστά μια συμβολοσειρά με μια άλλη συμβολοσειρά
 print("----------------------------------------------------------")
 
 q="DIT - UOI"
@@ -33,17 +35,17 @@ print(q.split("-"))
 print("----------------------------------------------------------")
 
 a = "DIT"
-b = "I" in a    # Check if the phrase "I" is present in the following text
+b = "I" in a    # Ελέγξτε εάν η φράση "I" υπάρχει στο ακόλουθο κείμενο
 print(b)
 print("----------------------------------------------------------")
 
-b = "o" not in a    # Check if the phrase "I" is NOT present in the following text
+b = "o" not in a    # Ελέγξτε αν η φράση "I" ΔΕΝ υπάρχει στο ακόλουθο κείμενο
 print(b)
 print("----------------------------------------------------------")
 
 a = "Hello"
 b = "World"
-c = a + b   # Merge variable a with variable b into variable c
+c = a + b   # Συγχώνευση μεταβλητής a με μεταβλητή b σε μεταβλητή c
 print(c)
 
 c = a + "   " + b
@@ -51,9 +53,9 @@ print(c)
 
 age = 21
 txt = "My name is Kostas, and I am {}"
-print(txt.format(age))  # The format() method takes the passed arguments, formats them, 
-                        # and places them in the string where the placeholders {} are:
+print(txt.format(age))  # Η μέθοδος format () παίρνει τα ορίσματα που έχουν περάσει, τα μορφοποιεί,
+                        # και τα τοποθετεί στη συμβολοσειρά ανάμεσα στα {}
 
-kr = "DIT--\"UOI\"."    # The escape character allows you to use double quotes 
-                        # when you normally would not be allowed:
+kr = "DIT--\"UOI\"."    # Ο χαρακτήρας διαφυγής σάς επιτρέπει να χρησιμοποιείτε διπλά 
+                        # εισαγωγικά όταν κανονικά δεν θα επιτρέπετε
 print(kr)
