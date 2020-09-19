@@ -20,6 +20,8 @@
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/casting.py">Μετατροπή τύπων μεταβλητών </a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/strings.py">Αλφαριθμητικά στην Python</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/lists.py">Λίστες στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/tuple.py">Tuple</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/set.py">Set</a></li> 
 
 
 
