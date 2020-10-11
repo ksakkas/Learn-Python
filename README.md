@@ -22,6 +22,16 @@
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/lists.py">Λίστες στην Python</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/tuple.py">Tuple</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/set.py">Set</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/dictionary.py">Λεξικά στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/if_else.py">Η IF στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/while.py">Η While στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/for.py">Η For στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/funct.py">Συναρτήσεις στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/lambda.py">Lambda στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/array.py">Πίνακες στην Python</a></li> 
+
+
+
 
 
 
