@@ -29,13 +29,22 @@
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/funct.py">Συναρτήσεις στην Python</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/lambda.py">Lambda στην Python</a></li> 
 <li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/array.py">Πίνακες στην Python</a></li> 
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/greek/class.py">Κλάσεις στην Python</a></li> 
+</ul>
 
-
-
-
-
+<hr>
+<h2>Εισαγωγή στην Python</h2>
+<ul>
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/GUI/label.py">Εισαγωγή ετικέτας σε παράθυρο (label)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/GUI/showinfo.py">Αναδυόμενο παράθυρο (show info)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/GUI/askokcancel.py">Αναδυόμενο παράθυρο με πλήκτρα ok και cancel (askokcancel)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/GUI/askquestion.py">Αναδυόμενο παράθυρο με πλήκτρα ναι και οχι (askquestion)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/GUI/askyesno.py">Αναδυόμενο παράθυρο με πλήκτρα ναι και οχι και προεπιλεγμένο το ναι (askyesno)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/GUI/askretrycancel.py">Αναδυόμενο παράθυρο με πλήκτρα επανάληψη και άκυρο (askretrycancel)</a></li>
+<li><a href="https://github.com/ksakkas/Learn-Python/blob/master/GUI/slider_timer.py">Μπάρα επιλογής χρόνου</a></li>
 
 </ul>
+
  
 
 </body>
